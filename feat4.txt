@@ -8,4 +8,6 @@ This feature will be necessary in future
 
 One more feature added.
 
-I shold use this feature.
+I should use this feature.
+
+This feature have multiple use.
