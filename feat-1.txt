@@ -1,4 +1,7 @@
-This first fetature.
+This first feature.
 
+Feature is everything on time.
 
 Added some fuction on this feature.
+
+Applying that feature on time is a smartness.
